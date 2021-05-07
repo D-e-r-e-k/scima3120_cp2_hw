@@ -24,5 +24,6 @@ Week5: Present
 ## References and link
 - [Car Physics for Games](https://asawicki.info/Mirror/Car%20Physics%20for%20Games/Car%20Physics%20for%20Games.html) : An arcade version of car physics simulation
 - [Checkpoint Champion](https://www.youtube.com/watch?v=mbuXQrf8kQ8) : This is probably one of my favorite top-down racing game in terms of visual and physics simulation I've played
+- [Early F1 footage](https://www.youtube.com/watch?v=7xWL0wCfIFU) : A possible reference for visual style
 
 I'll keep this list updated
